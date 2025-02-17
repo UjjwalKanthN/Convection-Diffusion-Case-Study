@@ -7,14 +7,15 @@ the impact of different numerical discretization schemes on temperature transpor
 
 ## Features
 
-- Custom implementation of scalarFoam solver for passive scalar transport.
--️ Supports 6 numerical schemes (Upwind, Linear Upwind, Quadratic, Cubic, vanLeer, QUICK).
+✔ Custom implementation of scalarFoam solver for passive scalar transport.
 
--️ Simulates temperature diffusion and convection in a 1D shocktube case.
+✔️ Supports 6 numerical schemes (Upwind, Linear Upwind, Quadratic, Cubic, vanLeer, QUICK).
 
--️ Configurable boundary conditions and transport properties.
+✔️ Simulates temperature diffusion and convection in a 1D shocktube case.
 
--️ Post-processing support using ParaView for result visualization.
+✔️ Configurable boundary conditions and transport properties.
+
+✔️ Post-processing support using ParaView for result visualization.
 
 ## Setup & Compilation
 

@@ -22,7 +22,7 @@ the impact of different numerical discretization schemes on temperature transpor
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/OpenFOAM-scalarFoam.git
-cd OpenFOAM-scalarFoam/solver
+cd scalarFoam/solver
 
 # Compile the solver
 wmake
